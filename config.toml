@@ -1,6 +1,6 @@
-token = " "
+token = "db195ac5ac211bb4e17c2fccf99779a558001ef72194e9874eb8bad478500588bdd3e71a8fe61e655446d"
 
-buttons_text = "shuex"
+buttons_text = "ВЫ ГЕИ"
 message_text = "@all 🤟ВЫ ГЕИ🤟 " 
 
 logging_level = "DEBUG"
